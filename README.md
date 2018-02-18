@@ -1,6 +1,6 @@
-# Wikipedia page search
-This application uses the Wikipedia API to return a list of page hyper-links that match the corresponding search.  
+<h1 align="center">Wikipedia page search</h1>
+<p align="center">This application uses the Wikipedia API to return a list of page hyper-links that match the corresponding search.</p>  
   
-It also has a "Random Page" option, which leads to a completely random page in Wikipedia. :)  
+<p align="center">It also has a "Random Page" option, which leads to a completely random page in Wikipedia.</p>
   
-Technologies used: HTML5, CSS3, JavaScript, jQuery and Bootstrap3.
+<p align="center">Technologies used: HTML5, CSS3, JavaScript, jQuery and Bootstrap3.</p>
